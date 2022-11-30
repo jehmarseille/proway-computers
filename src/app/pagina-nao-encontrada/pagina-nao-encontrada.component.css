@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    color: var(--blue);
+}
+
+.container i {
+    font-size: 100px;
+    filter:drop-shadow(16px 5px 5px rgba(128, 128, 128, 0.589));
+}
+
+
+
+.container h2 {
+    font-size: 40px;
+}

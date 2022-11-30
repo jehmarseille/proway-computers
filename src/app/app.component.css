@@ -1,0 +1,14 @@
+.container [data-theme='white'] {
+    width: "80%";
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(245, 245, 245, 0.418);
+}
+
+
+.container [data-theme='dark'] {
+    width: "80%";
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+}
